@@ -464,5 +464,3 @@ print(f"Double version: {version * 2}")
 ```
 
 ---
-
-Answer all 5 → I grade them → code file + repo content drops! 🚀
